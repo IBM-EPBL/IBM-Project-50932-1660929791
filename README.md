@@ -1,8 +1,7 @@
 #  IBM-Project-50932-1660929791
 # Smart Waste Management System For Metropolitan Cities
  https://github.com/IBM-EPBL/IBM-Project-50932-1660929791 
- https://github.com/topics/github https://github.com/topics/css
-
+ #
 TECHNOLOGY : Internet Of Things(IOT)
 
 TEAM ID : PNT2022TMID50932
