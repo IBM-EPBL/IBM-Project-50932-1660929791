@@ -1,3 +1,4 @@
+
 const cap_status = document.getElementById('cap_status');
 const alert_msg = document.getElementById('alert_msg');
 
